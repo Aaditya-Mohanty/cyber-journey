@@ -2,10 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Aditya+Mohanty;Cybersecurity+Enthusiast;SOC+Operations+%7C+Threat+Detection;Building+Real+World+Security+Labs;Learning.+Building.+Securing.">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-red?style=for-the-badge">
+
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/04-Technical-Skills/defensive-security.md">
+    <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/04-Technical-Skills/siem.md">
+    <img src="https://img.shields.io/badge/SIEM-Wazuh-green?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/04-Technical-Skills/linux.md">
+    <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge">
+  </a>
+
+  <a href="https://linkedin.com/in/adityamohanty-security">
+    <img src="https://img.shields.io/badge/Status-Actively%20Building-red?style=for-the-badge">
+  </a>
+
 </p>
 
 ## 👨‍💻 Hi, I'm Aditya  
