@@ -3,15 +3,15 @@
 </p>
 <p align="center">
 
-  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/Technical-Skills/defensive-security.md">
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/technical-Skills/defensive-security.md">
     <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/Technical-Skills/siem.md">
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/technical-Skills/siem.md">
     <img src="https://img.shields.io/badge/SIEM-Wazuh-green?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/Technical-Skills/linux.md">
+  <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/technical-Skills/linux.md">
     <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge">
   </a>
 
