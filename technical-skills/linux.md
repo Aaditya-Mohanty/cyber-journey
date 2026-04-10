@@ -1,7 +1,7 @@
 # 🐧 Linux for Cybersecurity
 
 ## 📌 Overview
-Linux is widely used in cybersecurity for penetration testing, monitoring, and server management.
+I use Linux for penetration testing, monitoring, and server management.
 
 ---
 
