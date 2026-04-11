@@ -66,7 +66,7 @@ My goal is:👉 To Become a highly skilled **SOC Analyst / Security Operations p
 - Configured log ingestion & alert rules  
 - Simulated cyber attacks & analyzed logs  
 - Practiced **incident triage & response workflows**
-- 
+
 ### 🧠 Industry Simulations  
 - Phishing attack analysis & IOC identification  
 - Security awareness strategy creation  
