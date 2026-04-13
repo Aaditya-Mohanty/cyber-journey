@@ -16,5 +16,4 @@ Key Takeaway:
 Packet Tracer allows you to build and test real-world networks virtually without needing physical hardware. This makes it an excellent tool for safely learning and practicing networking concepts.
 
 What I Will Learn Next:
-Cybersecurity Operations Management
-Security Policies, Regulations, and Standards
+System and Network Defense
