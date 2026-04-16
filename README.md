@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Aditya+Mohanty;Cybersecurity+Enthusiast;SOC+Operations+%7C+Threat+Detection;Building+Real+World+Security+Labs;Learning.+Building.+Securing.">
 </p>
-<p align="center">
+<p align="center"> 
 
   <a href="https://github.com/Aaditya-Mohanty/cyber-journey/blob/main/technical-skills/defensive-security.md">
     <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=for-the-badge">
